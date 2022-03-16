@@ -315,7 +315,7 @@
                                     <artifactId>maven-checkstyle-plugin</artifactId>
                                     <version>3.0.1</version>
                                     <!--<configuration>-->
-                                    <!--<configLocation>gol-checkstyle.xml</configLocation>-->
+                                    <!--<configLocation>gol-checkstyle.xml </configLocation>-->
                                     <!--</configuration>-->
                                 </plugin>
                                 <plugin>
